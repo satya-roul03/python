@@ -28,7 +28,7 @@ try:
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Satya123@" 
+        password="S111@" 
     );
     cursor = conn.cursor();
     print("🚀 Connection to MySQL Server successful!");
